@@ -1,0 +1,19 @@
+Q1. 
+docker exec -it containerid /data (bash)
+ls /data
+browser view
+
+Q2.
+docker restart is used for containers already created
+
+Q3.
+Shows all containers
+
+Q4.
+Run container in background
+
+Q5.
+Changes tag name for container
+
+Q6.
+fetches logs of all containers 
